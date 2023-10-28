@@ -4,7 +4,6 @@ I'm a web developer with a passion for learning and improving. I built this cont
 
 I developed a Contacts React Web App that displays information from an API that I was able to create with Node.js and using the MongoDB framework as a demonstration of my proficiency in the Javascript language in web development. This web app is able to display the contacts information to users, as well as the ability to create, edit and delete the contacts. 
 
-{Describe your purpose for writing this software.}
 To run the web app locally, here are the steps to take in the terminal:
 * `git clone https://github.com/narah10/Contacts-Web-App.git`
 * `cd backend`
@@ -14,9 +13,8 @@ To run the web app locally, here are the steps to take in the terminal:
 * Run `npm start` 
 * Open http://localhost:3000 to view it in your browser.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Iibmdi1Lcoc)
 
 # Web Pages
 
