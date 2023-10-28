@@ -6,10 +6,10 @@ I developed a Contacts React Web App that displays information from an API that 
 
 {Describe your purpose for writing this software.}
 To run the web app locally, here are the steps to take in the terminal:
-* `git clone `
+* `git clone https://github.com/narah10/Contacts-Web-App.git`
 * `cd backend`
 * Run 'node server.js' so the API server can start running and be able to connect with the front-end
-* Run `cd ..` to return to the contacts directory and then run `cd contacts-web-app`
+* Run `cd ..` to return to the contacts directory and then run `cd contacts-web-app` to switch directories
 * Run `npm install`
 * Run `npm start` 
 * Open http://localhost:3000 to view it in your browser.
@@ -23,8 +23,6 @@ To run the web app locally, here are the steps to take in the terminal:
 This web app's main page displays the contacts in the database and does not have multiple web pages. It is focused more on using the created API and being able to change the information displayed as it also updates the database. 
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
 
 * Visual Studio Code
 * Git
@@ -46,4 +44,3 @@ Here are the programming languages I used for this software
 
 * Currently I can only change the database from using a rest client so I want to incorporate the frontend to have a method of adding information so the user's input can be sent to update the database
 * I want to make the web app more user friendly by improving the design
-*
